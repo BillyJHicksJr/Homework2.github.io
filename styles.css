@@ -1,0 +1,31 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    text-align: center;
+ }
+ .center {
+     position: sticky;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;  
+ }
+
+ .left {
+    position: sticky;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+.right {
+    position: sticky;
+    display: block;
+    margin-left: auto;
+    margin-right: ||;
+    width: 50%;  
+}
