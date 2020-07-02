@@ -18,7 +18,7 @@
  .left {
     position: sticky;
     display: block;
-    margin-left: auto;
+    margin-left: ||;
     margin-right: auto;
     width: 50%;  
 }
@@ -28,4 +28,9 @@
     margin-left: auto;
     margin-right: ||;
     width: 50%;  
+}
+.gfont{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+    font-size: x-large;
 }
