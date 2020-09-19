@@ -7,6 +7,7 @@
     color: white;
     text-align: center;
  }
+
  .center {
      position: sticky;
      display: block;
@@ -22,6 +23,11 @@
     margin-right: auto;
     width: 50%;  
 }
+
+.jumbotron {
+    margin: 30px;
+}
+
 .right {
     position: sticky;
     display: block;
@@ -29,11 +35,28 @@
     margin-right: ||;
     width: 50%;  
 }
-.gfont{
+
+.gfont-2{
     font-family: 'Yanone Kaffeesatz', sans-serif;
-    color: white;
+    text-align: center;
+    color: black;
     font-size: x-large;
 }
+
+.gfont-1{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: x-large;
+}
+
 .marg {
     margin-left: 10px;
+}
+.box {
+    width: 600px;
+    height: 300px;
+    padding: 50px;
+    border: 5px gray;
+    box sizing: border-box;
 }
